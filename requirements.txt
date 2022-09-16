@@ -1,0 +1,10 @@
+tensorflow
+rasterio
+keras
+pandas
+numpy
+jupyter
+matplotlib
+scikit-learn
+GDAL
+boto3
