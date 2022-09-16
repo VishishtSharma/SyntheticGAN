@@ -19,3 +19,7 @@ out were accessing the data from an open access data source,
 preparing the data as per our requirements, using them to 
 generate mask layers and finally translating the masks to output 
 synthetic images
+
+
+This Project is an re-implementation of the paper " Mohandoss, Tharun Kulkarni, Aditya Northrup, Daniel Mwebaze, 
+Ernest Alemohammad, Hamed. (2020). Generating Synthetic Multi-spectral Satellite Imagery from Sentinel-2 "
